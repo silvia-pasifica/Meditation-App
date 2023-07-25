@@ -14,7 +14,7 @@
 		D54E439B2A6C2FD600342BB5 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54E439A2A6C2FD600342BB5 /* Persistence.swift */; };
 		D54E439E2A6C2FD600342BB5 /* Meditation_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D54E439C2A6C2FD600342BB5 /* Meditation_App.xcdatamodeld */; };
 		D54E43A52A6C303200342BB5 /* ReusableComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54E43A42A6C303200342BB5 /* ReusableComponent.swift */; };
-		D54E43A72A6C326C00342BB5 /* OnboardingPageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54E43A62A6C326C00342BB5 /* OnboardingPageViewModel.swift */; };
+		D54E43A72A6C326C00342BB5 /* OnboardingPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54E43A62A6C326C00342BB5 /* OnboardingPageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +26,7 @@
 		D54E439A2A6C2FD600342BB5 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		D54E439D2A6C2FD600342BB5 /* Meditation_App.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Meditation_App.xcdatamodel; sourceTree = "<group>"; };
 		D54E43A42A6C303200342BB5 /* ReusableComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusableComponent.swift; sourceTree = "<group>"; };
-		D54E43A62A6C326C00342BB5 /* OnboardingPageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPageViewModel.swift; sourceTree = "<group>"; };
+		D54E43A62A6C326C00342BB5 /* OnboardingPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				D54E43912A6C2FD400342BB5 /* Meditation_AppApp.swift */,
 				D54E43932A6C2FD400342BB5 /* ContentView.swift */,
 				D54E43A42A6C303200342BB5 /* ReusableComponent.swift */,
-				D54E43A62A6C326C00342BB5 /* OnboardingPageViewModel.swift */,
+				D54E43A62A6C326C00342BB5 /* OnboardingPageView.swift */,
 				D54E43952A6C2FD600342BB5 /* Assets.xcassets */,
 				D54E439A2A6C2FD600342BB5 /* Persistence.swift */,
 				D54E439C2A6C2FD600342BB5 /* Meditation_App.xcdatamodeld */,
@@ -151,7 +151,7 @@
 			files = (
 				D54E439B2A6C2FD600342BB5 /* Persistence.swift in Sources */,
 				D54E43A52A6C303200342BB5 /* ReusableComponent.swift in Sources */,
-				D54E43A72A6C326C00342BB5 /* OnboardingPageViewModel.swift in Sources */,
+				D54E43A72A6C326C00342BB5 /* OnboardingPageView.swift in Sources */,
 				D54E439E2A6C2FD600342BB5 /* Meditation_App.xcdatamodeld in Sources */,
 				D54E43942A6C2FD400342BB5 /* ContentView.swift in Sources */,
 				D54E43922A6C2FD400342BB5 /* Meditation_AppApp.swift in Sources */,
